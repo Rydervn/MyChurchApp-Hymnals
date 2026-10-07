@@ -1,0 +1,92 @@
+{
+  "hymnals": [
+    {
+      "id": 1,
+      "code": "sda-hymnal-en",
+      "name": "SDA Hymnal",
+      "language": "English",
+      "description": "Seventh-day Adventist Hymnal",
+      "version": 1,
+      "count": 694,
+      "file": "hymnals/sda-hymnal-en.json",
+      "size": 573106
+    },
+    {
+      "id": 2,
+      "code": "memeneda-akwanhwefo-nnwom",
+      "name": "Memeneda Akwanhwefo Nnwom",
+      "language": "Twi",
+      "description": "Seventh-day Adventist Twi hymnal",
+      "version": 1,
+      "count": 770,
+      "file": "hymnals/memeneda-akwanhwefo-nnwom.json",
+      "size": 520305
+    },
+    {
+      "id": 3,
+      "code": "kristo-asore-nnwom",
+      "name": "Kristo Asore Nnwom",
+      "language": "Twi",
+      "description": "Twi hymns",
+      "version": 1,
+      "count": 202,
+      "file": "hymnals/kristo-asore-nnwom.json",
+      "size": 154850
+    },
+    {
+      "id": 4,
+      "code": "twi-praises",
+      "name": "Twi Praises",
+      "language": "Twi",
+      "description": "Twi praise songs",
+      "version": 1,
+      "count": 92,
+      "file": "hymnals/twi-praises.json",
+      "size": 24359
+    },
+    {
+      "id": 5,
+      "code": "dangme-hymns",
+      "name": "Dangme Hymns",
+      "language": "Dangme",
+      "description": "Dangme hymns",
+      "version": 1,
+      "count": 135,
+      "file": "hymnals/dangme-hymns.json",
+      "size": 113046
+    },
+    {
+      "id": 6,
+      "code": "dangme-praises",
+      "name": "Dangme Praises",
+      "language": "Dangme",
+      "description": "Dangme praise songs",
+      "version": 1,
+      "count": 140,
+      "file": "hymnals/dangme-praises.json",
+      "size": 41147
+    },
+    {
+      "id": 7,
+      "code": "ss-en",
+      "name": "SS",
+      "language": "English",
+      "description": "English hymns (SS)",
+      "version": 1,
+      "count": 151,
+      "file": "hymnals/ss-en.json",
+      "size": 128796
+    },
+    {
+      "id": 8,
+      "code": "soc-en",
+      "name": "SOC",
+      "language": "English",
+      "description": "English choruses (SOC)",
+      "version": 1,
+      "count": 54,
+      "file": "hymnals/soc-en.json",
+      "size": 45304
+    }
+  ]
+}
